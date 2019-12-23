@@ -12,7 +12,6 @@ este proyecto es el mismo que Plan de Lealtad, sin embargo debe tomarlo  como do
 - Integración de caje de precintos.
 - Integración del sistema de cúpones, si un punto de venta elije un alimento este deberá ser intercambaido como cupón con su distribuidor maltaCleyton mas cercano.
 - Integración de aceptación de términios y condiciones al registrarse y/o iniciar sesión.
-- Cambio y creación de Procedimientos Almacenados en BD- *vea el archivo Cambios a BD.sql*
 
 ### Características del sitio
 
