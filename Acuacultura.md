@@ -19,3 +19,6 @@ administrada por maltaCleyton.
 
 - El Geolocalizador utiliza un archivo csv, ubicado en la carpeta raíz\Content\assets\docs\distribuidores.csv por lo que si un distribuidor solicita cambios se debe descargar el archivo modificarlo y volverlo a subir, los sitios de http://maltacleyton.com.mx/ y http://solocaballos.com.mx/ utilizan una copia del mismo archivo por lo que si se desea que las tres páginas tengan los mismo distribuidores con los mismo cambios se debe modificar cada de estos archivos.
 - El geolocalizador necesita un certificado SSL para funcionar, según la documentación de la  api google maps.
+- Para añadir o modificar los pop up ingrese a http://acuacultura.com.mx/popups
+- Para cambiar o añadir noticias en la sección de noticias, ingrese a http://acuacultura.com.mx/blog, consulte el archivo contraseñas del drive. 
+ 
