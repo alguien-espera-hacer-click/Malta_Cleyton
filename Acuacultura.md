@@ -4,13 +4,11 @@
 ## IDE de desarrollo
 `Visual Studio 2019`
 ## Lenguajes
-`css 3`
+`css 3` (`bootstrap v3.3.7`)
 
 `html 5`
 
-`bootstrap v3.3.7`
-
-`Jquery 2.1.1`
+`js` (`Jquery 2.1.1`)
 
 `c# .net framework 4.6.1`
 ## Base de datos.
