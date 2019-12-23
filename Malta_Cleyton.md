@@ -25,7 +25,7 @@ A diferencia de los demás proyectos de maltaCleyton, no se utiliza base de dato
 
 El sitio actual no contiene conexión a base de datos, sin embargo la versión anterior del sitio si tenía una base de datos administrada por maltaCleyton.
 
-##Notas importantes
+## Notas importantes
 
 - El código fuente en el repositorio es un poco diferente al código compilado que está en producción, la diferencia es completamente visual, las artes del slider, banner y menú corresponden a la última campaña para puntos de venta **Círculo Api-Malta**, proyecto que se quedo en espera para su lanzamiento a producción, razón por la cual es diferente al productivo.
 - La calculadora de porción alimenticia está hecha en js documento `main.js` .
