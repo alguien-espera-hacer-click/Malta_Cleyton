@@ -1,7 +1,7 @@
 # Círculo Api-Malta
 Este proyecto esta basado en la página http://catalogo.maltacleyton.com.mx/ (http://fidelidad.alopruebas.com.mx/index.html)
 En la carpeta **Circulo Api-Malta** encontrará el código fuente hasta la ultima modficación emitida por maltaCleyton, tome encuenta que 
-este proyecto es el mismo que Plan de Lealtad, sin embargo debe tomarlo  como dos diferentes tanto la base de datos como el código fuente sufrierón modificaciones ya que se integrarón nuevas funciones.
+este proyecto es similar que Plan de Lealtad, sin embargo debe tomarlo  como dos diferentes tanto la base de datos como el código fuente sufrierón modificaciones ya que se integrarón nuevas funciones.
 
 ### Modificaciones en contraste a Plan de Lealtad
 
