@@ -13,13 +13,11 @@ En la carpeta de maltaCleyton en el alojamiento de archivos encontrara dos direc
 `Visual Studio 2019`
 ### Lenguajes
 
-`css3`
+`css3` (`bootstrap v3.3.7`)
 
 `html 5`
 
-`bootstrap v3.3.7`
-
-`Jquery 2.1.1 y js`
+`js` (`Jquery 2.1.1`)
 
 `c# .net framework 4.6.1`
 
