@@ -4,6 +4,8 @@ El sitio de maltaCleyton se enfoca principalmente en el FrontEnd se utiliza  csh
 
 A diferencia de los demás proyectos de maltaCleyton, no se utiliza base de datos para crear el contenido de la página por lo que el contenido es estático.
 
+En la carpeta de maltaCleyton en el alojamiento de archivos encontrara dos directorios `Sitio Actual` y `Sitio Anterior` , la carpeta *sitio actual* corresponde al sitio que actualmente se muestra en http://maltacleyton.com.mx/ en ella encontrara el código fuente hasta su ultima actualización; En la carpeta *sitio anterior* se encuentra el código compilado y el código fuente de la versión anterior del sitio http://maltacleyton.com.mx
+
 ### Metodología de diseño 
  `MVC`
 
