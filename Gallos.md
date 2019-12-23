@@ -43,6 +43,7 @@ Por último reemplace el texto marcado `{nuevo Dominio}` del siguiente script po
       frame.src="http://{nuevo Dominio}/pre-starter";
     }
   }
+  ```
 ### Accesos wp-admin para foro
 vea el archivo contraseñas en el drive.
 
